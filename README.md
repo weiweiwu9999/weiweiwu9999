@@ -1,17 +1,1 @@
-### 👋 嗨, 我是俊緯!
 
-> **`2017/01 ~ 2018/07`** → **`2019/06/10 ~ 至今`**  
-> 　前端設計師實習　→　前端工程師在職
-
-#### 擅長
-
-* **`前　端`** javascript, typescript, vue(2-3), react, nextjs, vite, sass, tailwindcss
-* **`行動端`** react-native, kotlin(jetpack, jetpack compose, ...)
-* **`後　端`** nodejs(原生模塊, koa, express, puppeteer, ...)
-
-#### 能用
-
-* **`前　端`** jQuery, nuxtjs, styled-components
-* **`行動端`** java
-* **`後　端`** mysql, mongodb, redis
-* **`維　運`** docker, nginx, jenkins
