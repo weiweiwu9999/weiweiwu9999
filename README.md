@@ -13,5 +13,5 @@
 
 * **`前　端`** jQuery, nuxtjs, styled-components
 * **`行動端`** java
-* **`後　端`** golang, python, java(springboot), mysql, mongodb, redis
-* **`維　運`** docker, docker compose, nginx, jenkins
+* **`後　端`** mysql, mongodb, redis
+* **`維　運`** docker, nginx, jenkins
